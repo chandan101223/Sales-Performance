@@ -1,4 +1,8 @@
 # Sales-Performance
-This dataset about sales performance within two years in four different Regions. My Mission was to build a dashboard  to provides a clear overview of sales performance, trends, and key metrics and analyze  employees performance according to Sale.
+This dataset about sales performance within two years in four different Regions and Create a dynamic dashboard to track sales performance, analyse key metrics, and
+visualize trends across various regions.
 <br>
+TOOL :- Power BI
+<br>
+# Overview:
 
